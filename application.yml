@@ -1,5 +1,4 @@
-customer:
-   firstName: revathy 
+
 spring:
    datasource:
       url: jdbc:oracle:thin:@10.90.1.105:1521/DEV
